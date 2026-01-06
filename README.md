@@ -20,13 +20,18 @@ no registration is needed;
 - A [chat bot to practice for US citizenship test](https://us-civics-bot.click)
 is an old style–no LLMS!–chatbot to study civics and government questions for the test;
 
-- An [app to play piano melodies with chords](https://pianoapp.click/app), as you would do
+- An [app to play piano melodies with chords](https://pianoapp.click), as you would do
 on a piano accordion;
 
 - A [handmade ceramics shop](https://fenstea.com) that my wife Alexandra and I made for her art;
 
 - My attempt to [summarize what I know about low carb diet and glucose](https://t2d.life),
 because this is an interesting topic to figure out!
+
+### My vibe coding experiments
+
+- A [match-3 game](https://mindful-match3.app) I made without ever editing any code, only by talking to Cursor and ChatGPT.
+Well, actually _publishing_ it and setting up a domain required some manual actions, but the code is fully vibe coded.
 
 ### Contact
 
