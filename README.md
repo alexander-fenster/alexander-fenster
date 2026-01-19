@@ -33,6 +33,11 @@ because this is an interesting topic to figure out!
 - A [match-3 game](https://mindful-match3.app) I made without ever editing any code, only by talking to Cursor and ChatGPT.
 Well, actually _publishing_ it and setting up a domain required some manual actions, but the code is fully vibe coded.
 
+- A CLI tool [slowlane](https://www.npmjs.com/package/slowlane) to help updating app metadata in App Store Connect and
+Google Play Console. When you have more than one localization, updating the app store page can become tedious, and I could
+never complete `fastlane` setup, so this small tool, 100% vibe coded with Claude Code, covers exactly the feature set I need,
+and nothing more. If you found it helpful, let me know!
+
 ### Contact
 
 Well, we're on GitHub, so you can just write me here.
