@@ -18,7 +18,7 @@ a classic Eastern European card game, with your friends; match making is very si
 no registration is needed;
 
 - A [chat bot to practice for US citizenship test](https://us-civics-bot.click)
-is an old style–no LLMS!–chatbot to study civics and government questions for the test;
+is an old style–no LLMs!–chatbot to study civics and government questions for the test;
 
 - An [app to play piano melodies with chords](https://pianoapp.click), as you would do
 on a piano accordion;
@@ -30,8 +30,9 @@ because this is an interesting topic to figure out!
 
 ### My vibe coding experiments
 
-- A [match-3 game](https://mindful-match3.app) I made without ever editing any code, only by talking to Cursor and ChatGPT.
-Well, actually _publishing_ it and setting up a domain required some manual actions, but the code is fully vibe coded.
+- A [match-3 game](https://mindful-match3.app) I made without ever editing any code, only by talking to Cursor, ChatGPT,
+and later Claude Code and Codex. Well, actually _publishing_ it and setting up a domain required some manual actions,
+but the code is fully vibe coded.
 
 - A CLI tool [slowlane](https://www.npmjs.com/package/slowlane) to help updating app metadata in App Store Connect and
 Google Play Console. When you have more than one localization, updating the app store page can become tedious, and I could
